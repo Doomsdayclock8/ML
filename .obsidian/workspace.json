@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "dca6aed9d1a2c365",
+    "type": "split",
+    "children": [
+      {
+        "id": "ae9d9335cf8357ca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6da9e5b663252a5d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "70df7f164eb948a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "f20d055c2b7c4b08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5e8824602916032e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1feeab7bb72b8850",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1fc80c7cc0d136d2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4583fde39441f83e",
+    "type": "split",
+    "children": [
+      {
+        "id": "19082103fba8f855",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "209a2a2cfa298dd5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Diffusion GAN/Diffusion vs GAN.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Diffusion vs GAN"
+            }
+          },
+          {
+            "id": "68f2eaa8ca8effb5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Diffusion GAN/Diffusion vs GAN.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Diffusion vs GAN"
+            }
+          },
+          {
+            "id": "163dacfd3427426a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fd0e0f14795879bd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Diffusion GAN/Diffusion vs GAN.png"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Diffusion vs GAN"
+            }
+          },
+          {
+            "id": "46f4a0f4572b741b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6da9e5b663252a5d",
+  "lastOpenFiles": [
+    "Data Augmentation/Auto_Diff Model Steps.md",
+    "Data Augmentation/AutoDiff vs ForestDiffusion.md",
+    "Model Test Tips.md",
+    "Images/AutoDIff Recall Score.png",
+    "Data Augmentation",
+    "Images/Auto_Diff Model Steps.png",
+    "Untitled.md",
+    "Images/Autodiff_Vanilla_100Samples.png",
+    "Images/ForestDiffusion_Vanilla_100Samples.png",
+    "Images",
+    "Data Augmentation/Diffusion GAN/Diffusion vs GAN.png",
+    "Data Augmentation/Diffusion GAN/Diffusion vs GAN.md",
+    "Data Augmentation/GAN/GAN Problems and Solution.md",
+    "Data Augmentation/GAN/GAN Model.md",
+    "Images/Linear vs Cosine Schedule in Diffsion.png",
+    "Data Augmentation/Diffusion/Schedule.md",
+    "Data Augmentation/Diffusion GAN/GAN vs Diffusion GAN.md",
+    "Images/Diffusion Image Generation.png",
+    "Diagram.png",
+    "Data Augmentation/Diffusion/Diffusion Process Explained.md",
+    "Data Augmentation/Diffusion GAN/Diffusion GAN Explained.md",
+    "Data Augmentation/Diffusion GAN/Diffusion GAN_3 Components.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Data Augmentation/Diffusion",
+    "Data Augmentation/Diffusion GAN/Noise Types in Diffusion Process.md",
+    "Data Augmentation/GAN/Mitigating mode collapse through Noise Addition.md",
+    "Data Augmentation/GAN/Mode Collapse in GAN.md",
+    "Data Augmentation/Diffusion GAN",
+    "Mode Collapse in GAN 1.md",
+    "Data Augmentation/GAN",
+    "Pasted image 20240330150207.png"
+  ]
+}

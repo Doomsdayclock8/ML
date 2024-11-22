@@ -1,0 +1,5 @@
+- Instance noise can be added in various forms, such as Gaussian noise, uniform noise, or dropout.
+- Gaussian noise involves adding random values drawn from a Gaussian distribution to the input samples.
+- Uniform noise adds random values drawn from a uniform distribution.
+- Dropout randomly sets a fraction of input values to zero during training.
+- These noise types introduce randomness and perturbations to the input data, making it more challenging for the discriminator to learn precise decision boundaries.
