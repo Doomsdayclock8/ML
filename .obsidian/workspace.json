@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "ae9d9335cf8357ca",
+        "id": "b744de6d4a2d09a0",
         "type": "tabs",
         "children": [
           {
-            "id": "6da9e5b663252a5d",
+            "id": "876ccb86ab1ea409",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-24 04.42.54.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-24 04.42.54.excalidraw"
             }
           }
         ]
@@ -166,37 +168,42 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5e8824602916032e",
+  "active": "876ccb86ab1ea409",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-11-24 04.42.54.excalidraw.md",
+    "Untitled.canvas",
+    "Excalidraw/First.md",
+    "Excalidraw/Drawing 2024-11-24 04.38.26.excalidraw.md",
+    "Excalidraw",
     "Thesis",
     "Notes",
     "Notes/Data Augmentation/Auto_Diff Model Steps.md",
     "Notes/Data Augmentation/AutoDiff vs ForestDiffusion.md",
     "Notes/Model Test Tips.md",
-    "Notes/Images/AutoDIff Recall Score.png",
+    "Images/AutoDIff Recall Score.png",
     "Notes/Data Augmentation",
-    "Notes/Images/Auto_Diff Model Steps.png",
+    "Images/Auto_Diff Model Steps.png",
     "Notes/Untitled.md",
-    "Notes/Images/Autodiff_Vanilla_100Samples.png",
-    "Notes/Images/ForestDiffusion_Vanilla_100Samples.png",
-    "Notes/Images",
+    "Images/Autodiff_Vanilla_100Samples.png",
+    "Images/ForestDiffusion_Vanilla_100Samples.png",
+    "Images",
     "Notes/Data Augmentation/Diffusion GAN/Diffusion vs GAN.png",
     "Notes/Data Augmentation/Diffusion GAN/Diffusion vs GAN.md",
     "Notes/Data Augmentation/GAN/GAN Problems and Solution.md",
     "Notes/Data Augmentation/GAN/GAN Model.md",
-    "Notes/Images/Linear vs Cosine Schedule in Diffsion.png",
+    "Images/Linear vs Cosine Schedule in Diffsion.png",
     "Notes/Data Augmentation/Diffusion/Schedule.md",
     "Notes/Data Augmentation/Diffusion GAN/GAN vs Diffusion GAN.md",
-    "Notes/Images/Diffusion Image Generation.png",
+    "Images/Diffusion Image Generation.png",
     "Diagram.png",
     "Notes/Data Augmentation/Diffusion/Diffusion Process Explained.md",
     "Notes/Data Augmentation/Diffusion GAN/Diffusion GAN Explained.md",
     "Notes/Data Augmentation/Diffusion GAN/Diffusion GAN_3 Components.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
     "Notes/Data Augmentation/Diffusion",
     "Notes/Data Augmentation/Diffusion GAN/Noise Types in Diffusion Process.md",
     "Notes/Data Augmentation/GAN/Mitigating mode collapse through Noise Addition.md",
