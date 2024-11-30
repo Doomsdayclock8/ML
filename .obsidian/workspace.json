@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b744de6d4a2d09a0",
+        "id": "6a67990b3cd65184",
         "type": "tabs",
         "children": [
           {
-            "id": "876ccb86ab1ea409",
+            "id": "b032af5ceb31b861",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2024-11-24 04.42.54.excalidraw.md"
+                "file": "Transformer Architecture.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-24 04.42.54.excalidraw"
+              "icon": "lucide-file",
+              "title": "Transformer Architecture"
             }
           }
         ]
@@ -172,8 +174,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "876ccb86ab1ea409",
+  "active": "b032af5ceb31b861",
   "lastOpenFiles": [
+    "Attention is all you need.png",
+    "Transformer Architecture.md",
     "Excalidraw/Drawing 2024-11-24 04.42.54.excalidraw.md",
     "Untitled.canvas",
     "Excalidraw/First.md",
