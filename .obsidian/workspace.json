@@ -11,32 +11,49 @@
             "id": "b032af5ceb31b861",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Transformer Architecture.md",
-                "mode": "source",
-                "source": false
+                "file": "Thesis/6.12.24_AutoDiff_Forest Improvement over Forest.canvas",
+                "viewState": {
+                  "x": 214.46716417910443,
+                  "y": 766.1685634328358,
+                  "zoom": -0.5471477642585605
+                }
               },
-              "icon": "lucide-file",
-              "title": "Transformer Architecture"
+              "icon": "lucide-layout-dashboard",
+              "title": "6.12.24_AutoDiff_Forest Improvement over Forest"
             }
           },
           {
             "id": "34a273ba637dd387",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Statistical Learning/1. Estimatiing F.md",
-                "mode": "source",
-                "source": false
+                "file": "Images/Attention is all you need.png"
               },
-              "icon": "lucide-file",
-              "title": "1. Estimatiing F"
+              "icon": "lucide-image",
+              "title": "Attention is all you need"
+            }
+          },
+          {
+            "id": "458cc0deab6a17fe",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Thesis/6.12.24_AutoDiff_Forest Improvement over Forest.canvas",
+                "viewState": {
+                  "x": -88,
+                  "y": 882.7648895658797,
+                  "zoom": -0.4922388377940781
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "6.12.24_AutoDiff_Forest Improvement over Forest"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "4583fde39441f83e",
@@ -196,45 +213,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "34a273ba637dd387",
+  "active": "b032af5ceb31b861",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-12-02 21.42.52.excalidraw.md",
-    "Statistical Learning/1. Estimatiing F.md",
-    "Chapter 2 What is Stastistical Learning",
     "Transformer Architecture.md",
-    "Statistical Learning",
-    "README.md",
+    "Thesis/6.12.24_AutoDiff_Forest Improvement over Forest.canvas",
+    "Pasted image 20241206051209.png",
+    "Pasted image 20241206051257.png",
+    "Pasted image 20241206051122.png",
+    "Pasted image 20241206051157.png",
+    "Images/Pasted image 20241206051408.png",
+    "Images/Pasted image 20241206051424.png",
+    "Images/Pasted image 20241206051443.png",
+    "Pasted image 20241206051140.png",
+    "Stuff to Learn.md",
+    "Images/Attention is all you need.png",
     "Excalidraw/First.md",
+    "Images/Pasted Image 20241206023707_016.png",
+    "Notes/Statistical Learning/1. Estimatiing F.md",
+    "Excalidraw/Drawing 2024-12-02 21.42.52.excalidraw.md",
+    "Notes/Statistical Learning/Chapter 2 What is Stastistical Learning",
+    "Notes/Statistical Learning",
+    "README.md",
     "Excalidraw/Drawing 2024-11-24 04.38.26.excalidraw.md",
     "Excalidraw/Drawing 2024-11-24 04.42.54.excalidraw.md",
-    "Attention is all you need.png",
-    "Untitled.canvas",
     "Excalidraw",
     "Thesis",
     "Notes",
     "Notes/Data Augmentation/Auto_Diff Model Steps.md",
     "Notes/Data Augmentation/AutoDiff vs ForestDiffusion.md",
     "Notes/Model Test Tips.md",
-    "Images/AutoDIff Recall Score.png",
     "Notes/Data Augmentation",
-    "Images/Auto_Diff Model Steps.png",
     "Notes/Untitled.md",
-    "Images/Autodiff_Vanilla_100Samples.png",
-    "Images/ForestDiffusion_Vanilla_100Samples.png",
     "Images",
-    "Notes/Data Augmentation/Diffusion GAN/Diffusion vs GAN.png",
     "Notes/Data Augmentation/Diffusion GAN/Diffusion vs GAN.md",
     "Notes/Data Augmentation/GAN/GAN Problems and Solution.md",
     "Notes/Data Augmentation/GAN/GAN Model.md",
-    "Images/Linear vs Cosine Schedule in Diffsion.png",
     "Notes/Data Augmentation/Diffusion/Schedule.md",
     "Notes/Data Augmentation/Diffusion GAN/GAN vs Diffusion GAN.md",
-    "Images/Diffusion Image Generation.png",
-    "Diagram.png",
     "Notes/Data Augmentation/Diffusion/Diffusion Process Explained.md",
     "Notes/Data Augmentation/Diffusion GAN/Diffusion GAN Explained.md",
     "Notes/Data Augmentation/Diffusion GAN/Diffusion GAN_3 Components.md",
@@ -245,7 +264,6 @@
     "Notes/Data Augmentation/GAN/Mode Collapse in GAN.md",
     "Notes/Data Augmentation/Diffusion GAN",
     "Mode Collapse in GAN 1.md",
-    "Notes/Data Augmentation/GAN",
-    "Pasted image 20240330150207.png"
+    "Notes/Data Augmentation/GAN"
   ]
 }

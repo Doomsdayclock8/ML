@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"74dd4e1f55a69fe5","type":"file","file":"Images/Pasted image 20241206051408.png","x":-800,"y":-480,"width":1380,"height":730},
+		{"id":"a27e38e468283c21","type":"file","file":"Images/Pasted image 20241206051424.png","x":-800,"y":300,"width":600,"height":899},
+		{"id":"a464fb6e9f6c3d2e","type":"file","file":"Images/Pasted image 20241206051443.png","x":-140,"y":300,"width":764,"height":899}
+	],
+	"edges":[]
+}
