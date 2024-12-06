@@ -15,9 +15,9 @@
               "state": {
                 "file": "Thesis/6.12.24_AutoDiff_Forest Improvement over Forest.canvas",
                 "viewState": {
-                  "x": 214.46716417910443,
-                  "y": 766.1685634328358,
-                  "zoom": -0.5471477642585605
+                  "x": -88,
+                  "y": 359.5,
+                  "zoom": -1.5471477642585603
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -25,35 +25,24 @@
             }
           },
           {
-            "id": "34a273ba637dd387",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Attention is all you need.png"
-              },
-              "icon": "lucide-image",
-              "title": "Attention is all you need"
-            }
-          },
-          {
-            "id": "458cc0deab6a17fe",
+            "id": "2034e59b7ecc4e8b",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Thesis/6.12.24_AutoDiff_Forest Improvement over Forest.canvas",
                 "viewState": {
-                  "x": -88,
-                  "y": 882.7648895658797,
-                  "zoom": -0.4922388377940781
+                  "x": 278.34651079401795,
+                  "y": 873.2359198498083,
+                  "zoom": -1.8804810975918935
                 }
               },
               "icon": "lucide-layout-dashboard",
               "title": "6.12.24_AutoDiff_Forest Improvement over Forest"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -217,10 +206,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b032af5ceb31b861",
+  "active": "2034e59b7ecc4e8b",
   "lastOpenFiles": [
-    "Transformer Architecture.md",
+    "Untitled.md",
     "Thesis/6.12.24_AutoDiff_Forest Improvement over Forest.canvas",
+    "Thesis/24.11.24_Forest Diffusion vs AutoDiff.md",
+    "Transformer Architecture.md",
     "Pasted image 20241206051209.png",
     "Pasted image 20241206051257.png",
     "Pasted image 20241206051122.png",
@@ -231,7 +222,6 @@
     "Pasted image 20241206051140.png",
     "Stuff to Learn.md",
     "Images/Attention is all you need.png",
-    "Excalidraw/First.md",
     "Images/Pasted Image 20241206023707_016.png",
     "Notes/Statistical Learning/1. Estimatiing F.md",
     "Excalidraw/Drawing 2024-12-02 21.42.52.excalidraw.md",
