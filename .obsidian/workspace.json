@@ -4,45 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "6a67990b3cd65184",
+        "id": "ae9d9335cf8357ca",
         "type": "tabs",
         "children": [
           {
-            "id": "b032af5ceb31b861",
+            "id": "6da9e5b663252a5d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Thesis/6.12.24_AutoDiff_Forest Improvement over Forest.canvas",
-                "viewState": {
-                  "x": -88,
-                  "y": 359.5,
-                  "zoom": -1.5471477642585603
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "6.12.24_AutoDiff_Forest Improvement over Forest"
-            }
-          },
-          {
-            "id": "2034e59b7ecc4e8b",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Thesis/6.12.24_AutoDiff_Forest Improvement over Forest.canvas",
-                "viewState": {
-                  "x": 278.34651079401795,
-                  "y": 873.2359198498083,
-                  "zoom": -1.8804810975918935
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "6.12.24_AutoDiff_Forest Improvement over Forest"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "4583fde39441f83e",
@@ -175,16 +150,6 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "d615d36e758c0243",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
-            }
           }
         ],
         "currentTab": 4
@@ -201,44 +166,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2034e59b7ecc4e8b",
+  "active": "46f4a0f4572b741b",
   "lastOpenFiles": [
     "Untitled.md",
+    "Transformer Architecture.md",
     "Thesis/6.12.24_AutoDiff_Forest Improvement over Forest.canvas",
     "Thesis/24.11.24_Forest Diffusion vs AutoDiff.md",
-    "Transformer Architecture.md",
-    "Pasted image 20241206051209.png",
-    "Pasted image 20241206051257.png",
-    "Pasted image 20241206051122.png",
-    "Pasted image 20241206051157.png",
-    "Images/Pasted image 20241206051408.png",
-    "Images/Pasted image 20241206051424.png",
-    "Images/Pasted image 20241206051443.png",
-    "Pasted image 20241206051140.png",
+    "Thesis",
     "Stuff to Learn.md",
-    "Images/Attention is all you need.png",
-    "Images/Pasted Image 20241206023707_016.png",
     "Notes/Statistical Learning/1. Estimatiing F.md",
-    "Excalidraw/Drawing 2024-12-02 21.42.52.excalidraw.md",
-    "Notes/Statistical Learning/Chapter 2 What is Stastistical Learning",
     "Notes/Statistical Learning",
-    "README.md",
-    "Excalidraw/Drawing 2024-11-24 04.38.26.excalidraw.md",
+    "Images/Pasted image 20241206051443.png",
+    "Images/Pasted image 20241206051424.png",
+    "Images/Pasted image 20241206051408.png",
+    "Images/Pasted Image 20241206023707_016.png",
+    "Images/Pasted Image 20241206022842_858.png",
+    "Images/Pasted Image 20241206022635_620.png",
+    "Images/Linear vs Cosine Schedule in Diffsion.png",
+    "Images/ForestDiffusion_Vanilla_100Samples.png",
+    "Images/Diffusion Image Generation.png",
+    "Images/Auto_Diff Model Steps.png",
+    "Images",
     "Excalidraw/Drawing 2024-11-24 04.42.54.excalidraw.md",
     "Excalidraw",
-    "Thesis",
     "Notes",
     "Notes/Data Augmentation/Auto_Diff Model Steps.md",
     "Notes/Data Augmentation/AutoDiff vs ForestDiffusion.md",
     "Notes/Model Test Tips.md",
     "Notes/Data Augmentation",
     "Notes/Untitled.md",
-    "Images",
+    "Notes/Images",
     "Notes/Data Augmentation/Diffusion GAN/Diffusion vs GAN.md",
     "Notes/Data Augmentation/GAN/GAN Problems and Solution.md",
     "Notes/Data Augmentation/GAN/GAN Model.md",
@@ -248,6 +208,7 @@
     "Notes/Data Augmentation/Diffusion GAN/Diffusion GAN Explained.md",
     "Notes/Data Augmentation/Diffusion GAN/Diffusion GAN_3 Components.md",
     "Untitled 1.canvas",
+    "Untitled.canvas",
     "Notes/Data Augmentation/Diffusion",
     "Notes/Data Augmentation/Diffusion GAN/Noise Types in Diffusion Process.md",
     "Notes/Data Augmentation/GAN/Mitigating mode collapse through Noise Addition.md",
