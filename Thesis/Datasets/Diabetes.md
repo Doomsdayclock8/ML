@@ -1,3 +1,2 @@
 #Binary
-Majority 0
-Minority 1
+#Majority_0_Minority_1
