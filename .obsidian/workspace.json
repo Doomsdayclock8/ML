@@ -4,135 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ae9d9335cf8357ca",
+        "id": "d5223081eedf5ddf",
         "type": "tabs",
         "children": [
           {
-            "id": "6da9e5b663252a5d",
+            "id": "249cf617c6e0fc4c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Thesis/24.11.24_Forest Diffusion vs AutoDiff.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "24.11.24_Forest Diffusion vs AutoDiff"
-            }
-          },
-          {
-            "id": "877e9cc885d71269",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thesis/Datasets/Diabetes.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Diabetes"
-            }
-          },
-          {
-            "id": "97910b5323b68cfd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thesis/Datasets/Spambase.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Spambase"
-            }
-          },
-          {
-            "id": "1de73d64a92361dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thesis/Datasets/Oil.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Oil"
-            }
-          },
-          {
-            "id": "4c531cfafdd0ba08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thesis/Datasets/Yeast-ml8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Yeast-ml8"
-            }
-          },
-          {
-            "id": "02ea249a8cbd1ebc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thesis/Datasets/Oil.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Oil"
-            }
-          },
-          {
-            "id": "1bc7c2b2c10a19c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thesis/Datasets/Creditcard.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Creditcard"
-            }
-          },
-          {
-            "id": "da839c13e728a05b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Thesis/Datasets/Oil.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Oil"
-            }
-          },
-          {
-            "id": "5564f5cd3e5cfab4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vanilla Forest(Without Column Selection) Results.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vanilla Forest(Without Column Selection) Results"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,23 +167,24 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5564f5cd3e5cfab4",
+  "active": "249cf617c6e0fc4c",
   "lastOpenFiles": [
+    "Thesis/24.11.24_Forest Diffusion vs AutoDiff.md",
+    "Thesis/Datasets/Creditcard.md",
     "Thesis/Datasets/Oil.md",
     "Vanilla Forest(Without Column Selection) Results.md",
     "Results",
     "Thesis/Datasets/Spambase.md",
-    "Thesis/Datasets/Creditcard.md",
     "Thesis/Datasets/Diabetes.md",
     "Thesis/Datasets/HTRU.md",
     "Thesis/Datasets/Mammography.md",
     "Thesis/Datasets/Yeast-ml8.md",
     "README.md",
     "Thesis/Datasets",
-    "Thesis/24.11.24_Forest Diffusion vs AutoDiff.md",
     "Thesis/6.12.24_AutoDiff_Forest Improvement over Forest.canvas",
     "Excalidraw/Drawing 2024-11-24 04.42.54.excalidraw.md",
     "Untitled.md",
